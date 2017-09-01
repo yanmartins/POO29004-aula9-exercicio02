@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/aula9Exercicio02.iml" filepath="$PROJECT_DIR$/.idea/aula9Exercicio02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poo.iml" filepath="$PROJECT_DIR$/.idea/modules/poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/poo_main.iml" group="poo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/poo_test.iml" group="poo" />
+    </modules>
+  </component>
+</project>
